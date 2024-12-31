@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+   font-family: sans-serif;
+}
+#registerbutton:hover{
+color:orange !important;
+transform: scale(1.02) !important;
+
+    
+}
+#cancelButton:hover{
+    transform: scale(1.02) !important;
+    color: brown !important;
+}
+.formcontainer{
+    background-image: linear-gradient(to bottom right,#748d59,
+    #819869,
+    #8FA37A,
+    #9DAF8A,
+    #ABBA9B,
+    #B9C6AB);
+}
